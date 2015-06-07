@@ -1,0 +1,1 @@
+Implementação do método descrito por: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.94.3659
